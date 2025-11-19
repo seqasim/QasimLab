@@ -10,10 +10,10 @@
 
 2.	Run the following commands in terminal:
 
-    `[your home directory] /miniconda3/bin/conda init`
+    `/cache/home/[netid]/miniconda3/bin/conda init`
 
-    `[your home directory] /miniconda3/bin/conda config --set auto_activate_base true`
+    `/cache/home/[netid]/miniconda3/bin/conda config --set auto_activate_base true`
 
     `source ~/.bashrc`
-    
+
 3. Now you will use this local miniconda to install your conda environments!
