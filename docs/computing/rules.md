@@ -12,10 +12,8 @@ There are some general rules and good practices to follow.
 
 4. Keep your custom Git repositories in `/projects/f_sq140_1/GitRepos`
 
-    a. Git commit and push from local (e.g. vscode, cursor) frequently
+    a. Git commit and push from local (e.g. vscode, cursor) frequently. Do NOT change these repos ON Amarel themselves (for simplicity’s sake)!
 
-        1. Do NOT change these repos ON Amarel themselves (for simplicity’s sake)
-        
     b. Git pull frequently on Amarel to keep them updated
 
 
