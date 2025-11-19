@@ -6,14 +6,20 @@ There are some general rules and good practices to follow.
 
 1. Keep data and codebases in `/projects/` directory 
 
-2. Dump temporary outputs that you don’t mind getting deleted in **90** days in `/scratch/[netid]`
+2. Dump temporary outputs that you don't mind getting deleted in **90** days in `/scratch/[netid]`
 
 3. Only use your `/home/` directory to store your Jupyter notebooks and build your conda environments! It is limited to 100 GB
 
 4. Keep your custom Git repositories in `/projects/f_sq140_1/GitRepos`
 
-    a. Git commit and push from local (e.g. vscode, cursor) frequently. Do NOT change these repos ON Amarel themselves (for simplicity’s sake)!
-
+    a. Git commit and push from local (e.g. vscode, cursor) frequently. Do NOT change these repos ON Amarel themselves (for simplicity's sake)!
+    
     b. Git pull frequently on Amarel to keep them updated
+
+    **Note**: If you accidentally make changes directly on Amarel, you'll need to manually sync them back to your local repository, which can be error-prone. Always work locally and push/pull to keep things in sync.
+
+---
+
+[Back to Computing](README.md)
 
 

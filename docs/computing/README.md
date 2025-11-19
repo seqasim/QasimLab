@@ -2,28 +2,16 @@
 
 Computing resources, servers, software setup, and IT documentation.
 
-We use Amarel computing: 
+We use **Amarel computing** for our cluster resources.
 
+## Resources
 
-Overall: https://sites.google.com/view/cluster-user-guide/amarel?authuser=0
+- **Amarel User Guide**: [Overall Guide](https://sites.google.com/view/cluster-user-guide/amarel?authuser=0) | [Applications Guide](https://sites.google.com/view/cluster-user-guide/amarel?authuser=0)
+- **Support**: For help, contact help@oarc.rutgers.edu
 
+## Documentation
 
-Applications Guide: https://sites.google.com/view/cluster-user-guide/amarel?authuser=0
-
-
-For help, contact help@oarc.rutgers.edu.
-
-## How to Use
-
-Add computing documentation here as markdown files. Update this README to index them.
-
-## Computing Resources
-
-<!-- Add links to computing documentation here as you create them -->
-[Conda Setup](getting-started.md)
-
-[Using OnDemand](ondemand.md)
-
-[General Rules](rules.md)
-<!-- Example: - [Software Installation](software-installation.md) -->
+- [Conda Setup](getting-started.md) - Getting started with Conda for environment maintenance
+- [Using OnDemand](ondemand.md) - Launching Jupyter notebooks via OnDemand
+- [General Rules](rules.md) - Lab rules and best practices
 
