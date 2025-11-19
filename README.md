@@ -17,3 +17,9 @@ This wiki is maintained as simple markdown files. To add content:
 1. Navigate to the appropriate section folder
 2. Create or edit markdown files as needed
 3. Update the section's README.md to index new content
+
+## External Repositories 
+
+We will maintain codebase repositories separately. 
+
+- [LFP Analysis](https://github.com/seqasim/LFPAnalysis) - Codebase for analyzing LFP data using MNE
