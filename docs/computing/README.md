@@ -21,5 +21,7 @@ Add computing documentation here as markdown files. Update this README to index 
 
 <!-- Add links to computing documentation here as you create them -->
 [Conda Setup](getting-started.md)
+
+[Using OnDemand](ondemand.md)
 <!-- Example: - [Software Installation](software-installation.md) -->
 
