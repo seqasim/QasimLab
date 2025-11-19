@@ -22,4 +22,9 @@ This wiki is maintained as simple markdown files. To add content:
 
 We will maintain codebase repositories separately. 
 
+
+- [Electrode Localization](https://github.com/seqasim/LeGUI) - Codebase for MATLAB GUI to co-register CT and MRI scans to localize electrodes. Forked from Rolston Lab (Utah).
 - [LFP Analysis](https://github.com/seqasim/LFPAnalysis) - Codebase for analyzing LFP data using MNE
+- [Spike Sorting](https://github.com/seqasim/combinato) - Codebase for spike sorting single-nueron data. Forked from Mormann Lab (Bonn).
+- [RAM Data Reading](https://github.com/pennmem/cmlreaders) - Codebase for reading RAM data.
+- [RAM Data Analysis](https://github.com/pennmem/ptsa) - Codebase for reading RAM data.

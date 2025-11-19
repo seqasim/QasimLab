@@ -15,6 +15,11 @@
 4. Rhythm-based analyses: https://youtu.be/3hk4z3yrMzk?si=stSIsMaZH9vW3Ipg
 5. Interpreting time-frequency plots: https://youtu.be/s2MfmIx8wv4?si=7th8mEBbga4a0bE5
 
+## Open Datasets
+
+1. LFP and single-neuron data: https://github.com/openlists/ElectrophysiologyData?tab=readme-ov-file#human-intracranial-data
+
+
 ---
 
 [Back to Resources](README.md)

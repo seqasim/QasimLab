@@ -8,7 +8,12 @@
 
 ## Advanced Resources
 
-1. Neural Data Science: https://neuraldatascience.io/intro.html
+1. Data Science in Practice: https://datascienceinpractice.github.io/docs/index.html 
+
+2. Neural Data Science: https://neuraldatascience.io/intro.html
+
+3. Comprehensive List of Open Python Resources: https://github.com/openlists/PythonResources
+
 
 ---
 
