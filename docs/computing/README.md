@@ -23,5 +23,7 @@ Add computing documentation here as markdown files. Update this README to index 
 [Conda Setup](getting-started.md)
 
 [Using OnDemand](ondemand.md)
+
+[General Rules](rules.md)
 <!-- Example: - [Software Installation](software-installation.md) -->
 
