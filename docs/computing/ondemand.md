@@ -20,12 +20,12 @@ If you are not on a Rutgers network, you will need to use the VPN! See here for 
 
     d. Partition: specify the partition. 
 
-        1. Our lab partition is: `p_sq140_1`
+        1. Our lab partition is: **p_sq140_1**
 
     e. Reservation: keep empty
 
     f. Slurm feature: keep empty
 
     g. conda path: specify path to your local miniconda install: e.g. `/home/sq140/miniconda3/`
-    
+
     h. conda environment: specify environment name
