@@ -9,6 +9,6 @@ Add computing documentation here as markdown files. Update this README to index 
 ## Computing Resources
 
 <!-- Add links to computing documentation here as you create them -->
-<!-- Example: - [Server Setup](server-setup.md) -->
+[Conda Setup](getting-started.md) -->
 <!-- Example: - [Software Installation](software-installation.md) -->
 
