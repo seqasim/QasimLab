@@ -2,12 +2,8 @@
 
 Useful resources, papers, tools, and references.
 
-## How to Use
+## Documentation
 
-Add resource documents, links, or notes here as markdown files. Update this README to index them.
-
-## Resources
-
-<!-- Add links to resource files here as you create them -->
-<!-- Example: - [Resource Name](resource-name.md) -->
-
+- [iEEG Introduction](ieeg-intro.md) - Introductory readings and videos for intracranial EEG
+- [Statistics Introduction](statistics-intro.md) - Resources for learning statistics
+- [Python Introduction](python-intro.md) - Resources for learning Python programming
