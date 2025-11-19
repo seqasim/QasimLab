@@ -215,44 +215,6 @@
 
 For faculty travelers: Complete the departmental out of office form to report the time you will be traveling.
 
-![Time-Off Request Form](images/image_15_28.jpeg)
-
-### Travel Authorization Form
-
-For non-faculty travelers: Complete the departmental travel approval form with signature from the appropriate supervisor/PI. Send to Hillary to sign so that she is aware travel has been approved by the supervisor.
-
-**Department of Neurosurgery Travel Authorization Form**
-
-Rutgers University  
-Robert Wood Johnson Medical School  
-Department of Neurosurgery  
-683 Hoes Lane West  
-Piscataway, NJ 08854
-
-Please have your Supervisor/Manager sign this form and attach it to your Expense Reimbursement request.
-
-- **Employee Name**: _______________________
-- **Employee ID**: _______________________
-
-Provide a brief explanation for the request:
-
-_________________________________________________________________
-
-Will this be funded by a grant? Circle Y or N  
-If yes, please provide the account number: _______________________
-
-**Supervisor/PI approval:**
-- Signature: _______________________
-- Print: _______________________
-- Title: _______________________
-- Date: _______________________
-
-**Department Administrator Approval:**
-- Signature: _______________________
-- Print: Hillary Milne
-- Title: Senior Administrator
-- Date: _______________________
-
 ---
 
 [Back to Protocols](README.md)
