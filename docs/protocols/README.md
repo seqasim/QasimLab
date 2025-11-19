@@ -6,8 +6,6 @@ Lab protocols and procedures.
 
 Add protocol documents here as markdown files. Update this README to index them.
 
-## Protocols
+## Documentation
 
-<!-- Add links to protocol files here as you create them -->
-<!-- Example: - [Protocol Name](protocol-name.md) -->
-
+- [Travel Requests](travel.md) - Guidelines for putting in requests for travel.
